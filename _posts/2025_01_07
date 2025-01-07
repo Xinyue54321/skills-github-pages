@@ -1,7 +1,7 @@
 ---
 2025-1-7
 ---
-TOD(time if day) : 一天中的天空光照变化
+# TOD(time if day) : 一天中的天空光照变化
 ILC(indirectLightingCache):
 静态的物体的全局光照可以使用light map, 对于动态物体可以使用ILC，也是就是三界球谐静态漫反射。
 
